@@ -1,4 +1,6 @@
 function g = sigmoid(z)
+
+% Code as updated by Salim O. Oyinlola
 %SIGMOID Compute sigmoid functoon
 %   J = SIGMOID(z) computes the sigmoid of z.
 
